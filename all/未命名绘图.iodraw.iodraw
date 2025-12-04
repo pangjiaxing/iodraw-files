@@ -1,0 +1,198 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="jmwhLOng3vAD-I12Hm-a">
+    <mxGraphModel dx="1330" dy="699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="VptnwOJBe6EZs7094utx-1" value="业主报修" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="36" y="20" width="124" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="VptnwOJBe6EZs7094utx-2" value="物业接收" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="41" y="118" width="114" height="114" as="geometry" />
+        </mxCell>
+        <mxCell id="VptnwOJBe6EZs7094utx-3" value="维修人员处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="305" width="156" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="VptnwOJBe6EZs7094utx-4" value="业主确认" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="42" y="426" width="113" height="113" as="geometry" />
+        </mxCell>
+        <mxCell id="VptnwOJBe6EZs7094utx-5" value="维修完成" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="36" y="611" width="125" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="VptnwOJBe6EZs7094utx-6" value="投诉建议" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="313" y="20" width="124" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="VptnwOJBe6EZs7094utx-7" value="物业接收" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="318" y="118" width="114" height="114" as="geometry" />
+        </mxCell>
+        <mxCell id="VptnwOJBe6EZs7094utx-8" value="处理结果反馈" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="227" y="305" width="157" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="VptnwOJBe6EZs7094utx-9" value="业主确认" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="313" y="458" width="124" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="VptnwOJBe6EZs7094utx-10" value="投诉解决" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="313" y="611" width="124" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="VptnwOJBe6EZs7094utx-11" value="物业费缴纳通知" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="848" y="20" width="173" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="VptnwOJBe6EZs7094utx-12" value="业主缴纳" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="872" y="151" width="124" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="VptnwOJBe6EZs7094utx-13" value="财务入账" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="814" y="305" width="125" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="VptnwOJBe6EZs7094utx-14" value="生成欠费清单" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="856" y="458" width="156" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="VptnwOJBe6EZs7094utx-15" value="公共设施巡检" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="579" y="20" width="157" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="VptnwOJBe6EZs7094utx-16" value="发现问题" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="530" y="151" width="124" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="VptnwOJBe6EZs7094utx-17" value="安排维修" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="595" y="305" width="124" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="VptnwOJBe6EZs7094utx-18" value="访客管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1089" y="20" width="124" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="VptnwOJBe6EZs7094utx-19" value="访客登记" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1089" y="151" width="124" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="VptnwOJBe6EZs7094utx-20" value="放行/拒绝" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1085" y="305" width="133" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="VptnwOJBe6EZs7094utx-21" value="访客注销" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1089" y="458" width="124" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="VptnwOJBe6EZs7094utx-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="VptnwOJBe6EZs7094utx-1" target="VptnwOJBe6EZs7094utx-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VptnwOJBe6EZs7094utx-23" value="分配维修单" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="VptnwOJBe6EZs7094utx-2" target="VptnwOJBe6EZs7094utx-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VptnwOJBe6EZs7094utx-24" value="登记维修结果" style="curved=1;startArrow=none;endArrow=block;exitX=0.38;exitY=1.01;entryX=0.24;entryY=0;rounded=0;" edge="1" parent="1" source="VptnwOJBe6EZs7094utx-3" target="VptnwOJBe6EZs7094utx-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="50" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VptnwOJBe6EZs7094utx-25" value="满意" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="VptnwOJBe6EZs7094utx-4" target="VptnwOJBe6EZs7094utx-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VptnwOJBe6EZs7094utx-26" value="不满意" style="curved=1;startArrow=none;endArrow=block;exitX=0.93;exitY=0;entryX=0.71;entryY=1.01;rounded=0;" edge="1" parent="1" source="VptnwOJBe6EZs7094utx-4" target="VptnwOJBe6EZs7094utx-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="179" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VptnwOJBe6EZs7094utx-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="VptnwOJBe6EZs7094utx-6" target="VptnwOJBe6EZs7094utx-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VptnwOJBe6EZs7094utx-28" value="登记与处理" style="curved=1;startArrow=none;endArrow=block;exitX=0.13;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="VptnwOJBe6EZs7094utx-7" target="VptnwOJBe6EZs7094utx-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="305" y="269" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VptnwOJBe6EZs7094utx-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.35;entryY=0;rounded=0;" edge="1" parent="1" source="VptnwOJBe6EZs7094utx-8" target="VptnwOJBe6EZs7094utx-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="305" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VptnwOJBe6EZs7094utx-30" value="满意" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="VptnwOJBe6EZs7094utx-9" target="VptnwOJBe6EZs7094utx-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VptnwOJBe6EZs7094utx-31" value="不满意" style="curved=1;startArrow=none;endArrow=block;exitX=0.65;exitY=0;entryX=0.88;entryY=1.01;rounded=0;" edge="1" parent="1" source="VptnwOJBe6EZs7094utx-9" target="VptnwOJBe6EZs7094utx-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="445" y="390" />
+              <mxPoint x="445" y="269" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VptnwOJBe6EZs7094utx-32" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="VptnwOJBe6EZs7094utx-11" target="VptnwOJBe6EZs7094utx-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VptnwOJBe6EZs7094utx-33" value="记录缴纳信息" style="curved=1;startArrow=none;endArrow=block;exitX=0.38;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="VptnwOJBe6EZs7094utx-12" target="VptnwOJBe6EZs7094utx-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="877" y="269" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VptnwOJBe6EZs7094utx-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.41;entryY=0;rounded=0;" edge="1" parent="1" source="VptnwOJBe6EZs7094utx-13" target="VptnwOJBe6EZs7094utx-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="877" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VptnwOJBe6EZs7094utx-35" value="催缴" style="curved=1;startArrow=none;endArrow=block;exitX=0.6;exitY=0;entryX=0.62;entryY=1.02;rounded=0;" edge="1" parent="1" source="VptnwOJBe6EZs7094utx-14" target="VptnwOJBe6EZs7094utx-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="992" y="390" />
+              <mxPoint x="992" y="269" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VptnwOJBe6EZs7094utx-36" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.29;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="VptnwOJBe6EZs7094utx-15" target="VptnwOJBe6EZs7094utx-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="592" y="93" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VptnwOJBe6EZs7094utx-37" value="记录问题" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.29;entryY=0;rounded=0;" edge="1" parent="1" source="VptnwOJBe6EZs7094utx-16" target="VptnwOJBe6EZs7094utx-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="592" y="269" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VptnwOJBe6EZs7094utx-38" value="维修完成" style="curved=1;startArrow=none;endArrow=block;exitX=0.72;exitY=0;entryX=0.71;entryY=1.01;rounded=0;" edge="1" parent="1" source="VptnwOJBe6EZs7094utx-17" target="VptnwOJBe6EZs7094utx-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="723" y="269" />
+              <mxPoint x="723" y="93" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VptnwOJBe6EZs7094utx-39" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="VptnwOJBe6EZs7094utx-18" target="VptnwOJBe6EZs7094utx-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VptnwOJBe6EZs7094utx-40" value="记录进出时间" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="VptnwOJBe6EZs7094utx-19" target="VptnwOJBe6EZs7094utx-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VptnwOJBe6EZs7094utx-41" value="访客离开" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="VptnwOJBe6EZs7094utx-20" target="VptnwOJBe6EZs7094utx-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
